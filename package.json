@@ -1,0 +1,14 @@
+{
+  "name": "soldint",
+  "version": "1.0.0",
+  "description": "for programmers",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "prom"
+  ],
+  "author": "0micro",
+  "license": "ISC"
+}
