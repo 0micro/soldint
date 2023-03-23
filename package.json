@@ -1,14 +1,23 @@
 {
   "name": "soldint",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "for programmers",
   "main": "./src/index.js",
+  "homepage": "https://0micro.github.io",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "directory": ""
   },
   "keywords": [
     "prom"
   ],
+  "bugs": {
+    "url": "https://github.com/0micro/soldint/issues"
+  },
   "author": "0micro",
   "license": "ISC"
 }
